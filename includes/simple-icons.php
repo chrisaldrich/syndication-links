@@ -322,6 +322,7 @@ function simpleicons_syn_get_names() {
 		'hulu'                   => 'Hulu',
 		'humblebundle'           => 'Humble Bundle',
 		'hurriyetemlak'          => 'Hurriyetemlak',
+		'hypothesis'          	 => 'Hypothes.is',
 		'ibm'                    => 'IBM',
 		'icq'                    => 'ICQ',
 		'imdb'                   => 'IMDb',
